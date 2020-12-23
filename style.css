@@ -1,0 +1,154 @@
+h1{
+    text-align: center;
+    font-family: fantasy, sans-serif;
+    font-size: 70px;
+}
+
+.gradient-text{
+     background: linear-gradient(to top, red 0%, blue 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#menu {
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+#menu a{
+    text-decoration: none;
+}
+
+#menu a:hover{
+    color: orange;
+}
+
+
+#menu1{
+     text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+#menu1 a{
+    text-decoration: none;
+}
+
+#menu1 a:hover{
+    color: orange;
+}
+
+#about2{
+    background: linear-gradient(to top, red 0%, purple 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#contact{
+    background: linear-gradient(to top, yellow 0%, purple 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
+
+#huawei{
+    background: linear-gradient(to top, blue 0%, #04B404 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#iphone{
+    background: linear-gradient(to top, black 0%, #0B610B 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+    
+#ps4{
+    background: linear-gradient(to top, blue 0%, #04B4AE 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#sam{
+    background: linear-gradient(to top, #0040FF 0%, #8904B1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+ 
+#xbox{
+    background: linear-gradient(to top, black 0%, #01DF01 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+table{
+    text-align: left;
+}
+
+h2{
+    font-size: 40px;
+}
+
+li{
+    font-size: 25px;
+}
+
+#p30{
+    background-color: silver;
+}
+
+#buy{
+    border-color: lightgreen;
+    background-color: #01DF01;
+    color: white;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+#cart{
+    border-color: orange;
+    border-width: thick;
+    background-color: white;
+    color: orange;
+    font-family: cursive;
+    font-size: 30px;
+    
+}
+
+#subscribe{
+    border-color: lightgreen;
+    background-color: #01DF01;
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#stock{
+    font-size: 25px;
+    color: #04B404;
+    font-weight: 500;
+}
+
+#stock1{
+    font-size: 25px;
+    color: red;
+    font-weight: 500
+    
+}
+
+p{
+    font-size: 20px;
+}
+
+#mission{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 50px;
+    background: linear-gradient(to top, red 0%, purple 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#about1{
+    font-size: 50px;
+}
